@@ -1,0 +1,39 @@
+.bg-img1 {
+  filter: brightness(70%);
+  background-size: cover;
+  position: relative;
+}
+
+.bg-img2 {
+  filter: brightness(80%);
+  background-size: cover;
+  position: relative;
+}
+
+.bg-img3 {
+  filter: brightness(70%);
+  background-size: cover;
+  position: relative;
+}
+
+h5 {
+  color: #fff;
+  font-size: 30px;
+}
+
+.text {
+  color: #fff;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  position: absolute;
+  top: 800px;
+}
+
+.carousel-indicators {
+  background-color: #fff;
+}
